@@ -14,7 +14,7 @@ import java.util.ArrayList;
 
 public class ClienteAdapter extends ArrayAdapter<Cliente> {
 
-    // Declarando properiedades
+    // Declarando propriedades
     private final Context context;
     private final ArrayList<Cliente> elementos;
 
