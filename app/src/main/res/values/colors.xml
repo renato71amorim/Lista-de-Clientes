@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_texto_botao_1">#ffffff</color>
+    <color name="color_fundo_botao_salvar">#4e8e19</color>
+    <color name="color_fundo_botao_cancelar">#ff4500</color>
+    <color name="color_texto_botao_2">#39b7c0</color>
+    <color name="color_fundo_botao_atualizar">#1c61c7</color>
+    <color name="color_fundo_botao_excluir">#121111</color>
+    <color name="color_texto_edicao">#41e257</color>
+    <color name="color_text_cadastrar">#4649f4</color>
+    <color name="color_lista">#ffffff</color>
+    <color name="color_texto_lista_1">#0629d6</color>
+    <color name="color_layout_1">#ffffff</color>
+    <color name="color_fundo_lista_info_1">#cec5c5</color>
+</resources>

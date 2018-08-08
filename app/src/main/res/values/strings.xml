@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lista de Clientes</string>
+    <string name="texto_cadastro">Cadastro de Cliente</string>
+    <string name="texto_campo_nome">Nome</string>
+    <string name="texto_campo_email">Email</string>
+    <string name="texto_campo_telefone">Telefone</string>
+    <string name="texto_botao_salvar">Salvar</string>
+    <string name="texto_botao_cancelar">Cancelar</string>
+    <string name="texto_botao_atualizar">Atualizar</string>
+    <string name="texto_botao_excluir">Excluir</string>
+    <string name="texto_edicao">Edição de Cliente</string>
+    <string name="texto_informacao">Informaçâo</string>
+    <string name="texto_informacoes">Informações</string>
+    <string name="texto_campo_info">Aplicação Lista de Clientes</string>
+    <string name="texto_versao">Versão 1.0</string>
+    <string name="texto_plataforma">Plataforma Android</string>
+    <string name="texto_observacoes">Observações</string>
+</resources>
