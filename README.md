@@ -8,7 +8,7 @@ Aplicação desenvolvida para fins didáticos com objetivo de listar contatos de
 - Banco de dados SQLite
 - API 23: Android 6.0
 
-# Interface gráfica da aplicação Livros
+# Interface gráfica da aplicação
 
 <html lang="pt-br">
 <head>
